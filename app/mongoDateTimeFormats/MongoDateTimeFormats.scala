@@ -1,0 +1,5 @@
+package mongoDateTimeFormats
+
+trait MongoDateTimeFormats {
+
+}
