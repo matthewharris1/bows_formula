@@ -1,5 +1,0 @@
-package mongoDateTimeFormats
-
-class MongoDateTimeFormatsTest {
-
-}
